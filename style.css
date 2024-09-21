@@ -1,16 +1,30 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    /* background-color: rgb(220, 248, 255); */
 }
 
 h1 {
-    background-color: aqua;
+    background-color: rgb(200, 233, 245);
     text-align: center;
+    padding: 10px 0px;
 }
 
-.recipe-list {
+.recipe-link {
     font-size: 16px;
+    padding: 10px 30px;
 }
 
 .subheader {
     background-color: aquamarine;
+}
+
+.link-card {
+    background-color: rgb(242, 252, 255);
+    width: 400px;
+    margin: 16px auto;
+    padding: 10px 0px;
+}
+
+.recipe-list {
+    
 }
