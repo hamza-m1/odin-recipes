@@ -12,6 +12,7 @@ h1 {
 .recipe-link {
     font-size: 16px;
     padding: 10px 30px;
+    list-style-type: none;
 }
 
 .subheader {
@@ -23,8 +24,4 @@ h1 {
     width: 400px;
     margin: 16px auto;
     padding: 10px 0px;
-}
-
-.recipe-list {
-    
 }
